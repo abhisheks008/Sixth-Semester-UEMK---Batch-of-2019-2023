@@ -6,8 +6,9 @@ This repository will contain all the lab materials of the Sixth Semester of Batc
 - Compiler Design Lab.
 
 ********************************************************************************
-| Date | Week No. | Subject | Tools/Language Used | Status |
+| Date | Week No. | Subject | Tools/Language Used | Link |
 | :---: |:---: |:---: |:---: |:---: |
+|18.02.2022|01|Compiler Design Lab| <img alt = "C" src = "https://img.shields.io/badge/c-0000FF.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"> | [Click Here](/Compiler%20Design%20Lab/Assignment%201)
 
 
 ***************************************************************************
