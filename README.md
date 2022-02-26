@@ -9,7 +9,8 @@ This repository will contain all the lab materials of the Sixth Semester of Batc
 | Date | Week No. | Subject | Tools/Language Used | Link |
 | :---: |:---: |:---: |:---: |:---: |
 |18.02.2022|01|Compiler Design Lab 1| <img alt = "C" src = "https://img.shields.io/badge/c-0000FF.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"> | [Click Here](/Compiler%20Design%20Lab/Assignment%201)|
-|22.02.2022|01|Software Engineering Lab 1|<img src = "https://img.shields.io/badge/StarUML-C70039.svg?&style=for-the-badge&logo=StarUML%2B%2B&ogoColor=white">|[Click Here](https://github.com/abhisheks008/Sixth-Semester-UEMK---Batch-of-2019-2023/blob/main/Software%20Engineering%20Lab/Software%20Engg%20Lab%20-%20Assignment%201.pdf)
+|22.02.2022|01|Software Engineering Lab 1|<img src = "https://img.shields.io/badge/StarUML-C70039.svg?&style=for-the-badge&logo=StarUML%2B%2B&ogoColor=white">|[Click Here](https://github.com/abhisheks008/Sixth-Semester-UEMK---Batch-of-2019-2023/blob/main/Software%20Engineering%20Lab/Software%20Engg%20Lab%20-%20Assignment%201.pdf)|
+|25.02.2022|02|Compiler Design Lab 2|<img alt = "C" src = "https://img.shields.io/badge/c-0000FF.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"> | [Click Here](Compiler%20Design%20Lab/Assignment%202)|
 
 
 ***************************************************************************
