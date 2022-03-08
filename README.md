@@ -13,6 +13,7 @@ This repository will contain all the lab materials of the Sixth Semester of Batc
 |25.02.2022|02|Compiler Design Lab 2|<img alt = "C" src = "https://img.shields.io/badge/c-0000FF.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"> | [Click Here](Compiler%20Design%20Lab/Assignment%202)|
 |01.03.2022|02|Software Engineering Lab 2|<img src = "https://img.shields.io/badge/StarUML-C70039.svg?&style=for-the-badge&logo=StarUML%2B%2B&ogoColor=white">|[Click Here](/Software%20Engineering%20Lab/Software%20Engineering%20Lab%20-%20Assignment%202.pdf)|
 |04.03.2022|03|Compiler Design Lab 3|<img alt = "C" src = "https://img.shields.io/badge/c-0000FF.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"> | [Click Here](Compiler%20Design%20Lab/Assignment%203)|
+|08.03.2022|02|Software Engineering Lab 3|<img src = "https://img.shields.io/badge/StarUML-C70039.svg?&style=for-the-badge&logo=StarUML%2B%2B&ogoColor=white">|[Click Here](/Software%20Engineering%20Lab/Software%20Engineering%20Lab%20-%20Assignment%203.pdf)|
 
 
 
