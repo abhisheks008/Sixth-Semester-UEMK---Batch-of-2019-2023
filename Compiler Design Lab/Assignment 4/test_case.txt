@@ -1,0 +1,57 @@
+- How to run the lex program in the terminal (Ubuntu).
+  1. Open the Ubuntu 20.04 LTS (if you are a Windows user) or, terminal (if you are Ubuntu user).
+  2. Write, vi <program_name>.l
+  3. Update your Ubuntu by, sudo apt-get update.
+  4. If you have not installed flex in the Ubuntu, then install flex by, sudo apt install flex.
+  5. Open the vim editor and write the code.
+  6. Save the code.
+  7. Then put the following commands in the terminal,
+     lex <program_name>.l
+     cc lex.yy.c or, cc lex.yy.c -lfl
+     ./a.out
+  8. Check out the output and observe that properly.
+  
+  
+- Test Case 1 :
+Input : Abhishek
+Output : 
+Enter the string of vowels and consonents:Abhishek
+
+Number of vowels are: 3
+Number of consonants are: 5
+
+
+- Test Case 2 :
+Input : University
+Output :
+Enter the string of vowels and consonents:University
+
+Number of vowels are: 4
+Number of consonants are: 6
+
+
+- Test Case 3 :
+Input : aeiouAEIOU
+Output :
+Enter the string of vowels and consonents:aeiouAEIOU
+
+Number of vowels are: 10
+Number of consonants are: 0
+
+
+- Test Case 4 :
+Input : Shark Tank
+Output :
+Enter the string of vowels and consonents:Shark Tank
+
+Number of vowels are: 2
+Number of consonants are: 7
+
+
+- Test Case 5 :
+Input : UEM Kolkata Newtown
+Output :
+Enter the string of vowels and consonents:UEM Kolkata Newtown
+
+Number of vowels are: 7
+Number of consonants are: 10
