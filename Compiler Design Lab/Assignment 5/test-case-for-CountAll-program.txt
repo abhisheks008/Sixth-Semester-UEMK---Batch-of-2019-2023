@@ -1,0 +1,37 @@
+Test Case for the lex program which will count the number of words, lines, characters, special characters and digits of a given file.
+
+Test Case 1:
+Input file name: demo_file.txt
+Hello !
+My name is Abhishek Sharma.
+I am 21 years old.
+I am from Kolkata.
+I wanted to become a Software Developer Engineer.
+Thank you!
+
+Output:
+abhisheks008@LAPTOP-9RGGUF05:~$ vi countall.l
+abhisheks008@LAPTOP-9RGGUF05:~$ lex countall.l
+abhisheks008@LAPTOP-9RGGUF05:~$ cc lex.yy.c -lfl
+abhisheks008@LAPTOP-9RGGUF05:~$ ./a.out
+Number of Words = 30
+Number of Digits = 2
+Number of Special Characters = 26
+Number of Lines = 6
+Number of Characters = 129
+
+Test Case 2:
+Input: dummy.txt
+This is a dummy file.
+Call me @ 123456789.
+
+Output:
+abhisheks008@LAPTOP-9RGGUF05:~$ vi countall.l
+abhisheks008@LAPTOP-9RGGUF05:~$ lex countall.l
+abhisheks008@LAPTOP-9RGGUF05:~$ cc lex.yy.c -lfl
+abhisheks008@LAPTOP-9RGGUF05:~$ ./a.out
+Number of Words = 9
+Number of Digits = 9
+Number of Special Characters = 10
+Number of Lines = 2
+Number of Characters = 41
