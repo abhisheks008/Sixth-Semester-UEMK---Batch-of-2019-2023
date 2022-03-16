@@ -1,0 +1,31 @@
+Test Cases for counting the number of words in a string.
+
+Test Case 1:
+Input: Abhishek Sharma
+Output: 
+Number of words present in the string is = 2
+
+Test Case 2:
+Input :Abhishek Sharma is pursuing bachelors from UEM, Kolkata
+Output: 
+Number of words present in the string is = 8
+
+Test Case 3:
+Input: Hello everyone
+Output:
+Number of words present in the string is = 2
+
+Test Case 4:
+Input: Welcome to GitHub
+Output:
+Number of words present in the string is = 3
+
+Test Case 5:
+Input: Computer Science and Engineering
+Output:
+Number of words present in the string is = 4
+
+Test Case 6:
+Input: Happy Birthday to YOU!
+Output:
+Number of words present in the string is = 4
