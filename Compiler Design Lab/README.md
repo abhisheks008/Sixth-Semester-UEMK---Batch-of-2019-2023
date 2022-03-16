@@ -12,3 +12,5 @@
 **Q3.** Write a C program which will read a C program, and will delete all the comments. After deleting all the comments it will write the program in a separate file. *(Assignment 2)*<br/>
 **Q4.** Write C program which will calculate an arithmetic expression which is given as a string. Consider the expression has no paranthesis and contains the operators such as, +, -, * and /. *(Assignment 3)*<br/>
 **Q5.** Write a lex program which will count the vowels and consonants of a user given string. *(Assignment 4)*<br/>
+**Q6.** Write a LEX program to count the number of words in a string. *(Assignment 5)* </br>
+**Q7.** Write a LEX program which will count the number of words, characters, digits, lines and special characters present in a file. *(Assignment 5)* </br>
