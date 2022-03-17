@@ -1,3 +1,9 @@
+// Write a lex program to count the number of words, digits, characters, lines and special characters in a file.
+// Code contributed by, Abhishek Sharma
+// Compiler Design Lab 5
+// Assignment 5
+
+
 %{
 int word = 0;
 int digits = 0;
