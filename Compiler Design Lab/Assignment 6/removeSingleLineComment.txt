@@ -1,0 +1,30 @@
+Test Cases for the program to remove the single line comment in C.
+
+Test Case 1:
+Input: // Abhishek Sharma
+Output: 
+
+--Single Line Comment! Hence, removed!--
+
+Test Case 2:
+Input: UEM Kolkata
+Output:
+UEM Kolkata
+
+Test Case 3:
+Input: // Enrollment No 12019009001111
+Output: 
+
+--Single Line Comment! Hence, removed!--
+
+Test Case 4:
+Input: Kolkata 700160
+Output: Kolkata 700160
+
+Test Case 5:
+Input: // Kolkata 700160
+Output : 
+
+--Single Line Comment! Hence, removed!--
+
+
