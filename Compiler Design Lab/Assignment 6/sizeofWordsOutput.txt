@@ -1,0 +1,21 @@
+Test Cases for counting the length of the words using a LEX program.
+
+Test Case 1 :
+Input: Abhishek 
+Output: 8
+
+Test Case 2:
+Input: Another
+Output: 7
+
+Test Case 3:
+Input: Very
+Output: 4
+
+Test Case 4: 
+Input: University of Engineering and Management Kolkata
+Output: 10 2 11 3 10 7
+
+Test Case 5:
+Input: Awesome Mindblowing Extraordinary
+Output: 7 11 13
