@@ -14,6 +14,6 @@
 **Q5.** Write a LEX program which will count the vowels and consonants of a user given string. *(Assignment 4)*<br/>
 **Q6.** Write a LEX program to count the number of words in a string. *(Assignment 5)* </br>
 **Q7.** Write a LEX program which will count the number of words, characters, digits, lines and special characters present in a file. *(Assignment 5)* </br>
-**Q8.** Write a LEX program which will count the number of scanf and printf statements in a C program, replace them with readf and writef statements respectively. *(Assignment 6)* </br>
+**Q8.** Write a LEX program which will count the number of `scanf` and `printf` statements in a C program, replace them with `readf` and `writef` statements respectively. *(Assignment 6)* </br>
 **Q9.** Write a LEX program to count the number of words. *(Assignment 6)* </br>
 **Q10.** Write a LEX program to identify the single line comment and remove it. *(Assignment 6)* </br>
