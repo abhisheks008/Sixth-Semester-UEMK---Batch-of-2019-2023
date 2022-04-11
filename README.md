@@ -18,7 +18,8 @@ This repository will contain all the lab materials of the Sixth Semester of Batc
 |15.03.2022|04|**Software Engineering Lab 4**|<img src = "https://img.shields.io/badge/StarUML-C70039.svg?&style=for-the-badge&logo=StarUML%2B%2B&ogoColor=white">|[Click Here](https://github.com/abhisheks008/Sixth-Semester-UEMK---Batch-of-2019-2023/blob/main/Software%20Engineering%20Lab/Software%20Engineering%20Lab%20-%20Assignment%204.pdf)|
 |01.04.2022|05|**Compiler Design Lab 5**|<img alt = "lex" src = "https://img.shields.io/badge/lex-E6E300.svg?&style=for-the-badge&logo=lex&ogoColor=black">|[Click Here](https://github.com/abhisheks008/Sixth-Semester-UEMK---Batch-of-2019-2023/tree/main/Compiler%20Design%20Lab/Assignment%205)|
 |29.03.2022|05|**Software Engineering Lab 5**|<img src = "https://img.shields.io/badge/StarUML-C70039.svg?&style=for-the-badge&logo=StarUML%2B%2B&ogoColor=white">|[Click Here](https://github.com/abhisheks008/Sixth-Semester-UEMK---Batch-of-2019-2023/blob/main/Software%20Engineering%20Lab/Software%20Engineering%20Lab%20-%20Assignment%205.pdf)|
-|-|06|**Compiler Design Lab 6**|<img alt = "lex" src = "https://img.shields.io/badge/lex-E6E300.svg?&style=for-the-badge&logo=lex&ogoColor=black">|[Click Here](https://github.com/abhisheks008/Sixth-Semester-UEMK---Batch-of-2019-2023/tree/main/Compiler%20Design%20Lab/Assignment%206)|
+|08.04.2022|06|**Compiler Design Lab 6**|<img alt = "lex" src = "https://img.shields.io/badge/lex-E6E300.svg?&style=for-the-badge&logo=lex&ogoColor=black">|[Click Here](https://github.com/abhisheks008/Sixth-Semester-UEMK---Batch-of-2019-2023/tree/main/Compiler%20Design%20Lab/Assignment%206)|
+|08.04.2022|07|**Compiler Design Lab 6**|<img alt = "lex" src = "https://img.shields.io/badge/lex-E6E300.svg?&style=for-the-badge&logo=lex&ogoColor=black">|[Click Here](https://github.com/abhisheks008/Sixth-Semester-UEMK---Batch-of-2019-2023/tree/main/Compiler%20Design%20Lab/Assignment%207)|
 
 
 
