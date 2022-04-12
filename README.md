@@ -20,7 +20,7 @@ This repository will contain all the lab materials of the Sixth Semester of Batc
 |29.03.2022|05|**Software Engineering Lab 5**|<img src = "https://img.shields.io/badge/StarUML-C70039.svg?&style=for-the-badge&logo=StarUML%2B%2B&ogoColor=white">|[Click Here](https://github.com/abhisheks008/Sixth-Semester-UEMK---Batch-of-2019-2023/blob/main/Software%20Engineering%20Lab/Software%20Engineering%20Lab%20-%20Assignment%205.pdf)|
 |08.04.2022|06|**Compiler Design Lab 6**|<img alt = "lex" src = "https://img.shields.io/badge/lex-E6E300.svg?&style=for-the-badge&logo=lex&ogoColor=black">|[Click Here](https://github.com/abhisheks008/Sixth-Semester-UEMK---Batch-of-2019-2023/tree/main/Compiler%20Design%20Lab/Assignment%206)|
 |08.04.2022|07|**Compiler Design Lab 7**|<img alt = "lex" src = "https://img.shields.io/badge/lex-E6E300.svg?&style=for-the-badge&logo=lex&ogoColor=black">|[Click Here](https://github.com/abhisheks008/Sixth-Semester-UEMK---Batch-of-2019-2023/tree/main/Compiler%20Design%20Lab/Assignment%207)|
-|-|06|**Software Engineering Lab 6**|<img src = "https://img.shields.io/badge/StarUML-C70039.svg?&style=for-the-badge&logo=StarUML%2B%2B&ogoColor=white">|[Click Here](https://github.com/abhisheks008/Sixth-Semester-UEMK---Batch-of-2019-2023/tree/main/Software%20Engineering%20Lab/Assignment%206)|
+|-|06|**Software Engineering Lab 6**|<img alt = "SQL" src = "https://img.shields.io/badge/SQL-6713d4?style=for-the-badge&logo=sql&logoColor=white">  <img alt = "JAVA" src = "https://img.shields.io/badge/JAVA-e700a5?style=for-the-badge&logo=java&logoColor=white">|[Click Here](https://github.com/abhisheks008/Sixth-Semester-UEMK---Batch-of-2019-2023/tree/main/Software%20Engineering%20Lab/Assignment%206)|
 
 
 
@@ -39,7 +39,7 @@ This repository will contain all the lab materials of the Sixth Semester of Batc
 
 **************************************************************************
 ## abhisheks008
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>  <img alt = "C" src = "https://img.shields.io/badge/c-0000FF.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">   <img src = "https://img.shields.io/badge/StarUML-C70039.svg?&style=for-the-badge&logo=StarUML%2B%2B&ogoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>  <img alt = "C" src = "https://img.shields.io/badge/c-0000FF.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">   <img src = "https://img.shields.io/badge/StarUML-C70039.svg?&style=for-the-badge&logo=StarUML%2B%2B&ogoColor=white">   <img alt = "SQL" src = "https://img.shields.io/badge/SQL-6713d4?style=for-the-badge&logo=sql&logoColor=white">  <img alt = "JAVA" src = "https://img.shields.io/badge/JAVA-e700a5?style=for-the-badge&logo=java&logoColor=white">
 
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
