@@ -80,5 +80,44 @@ SQL> SELECT * FROM ACCOUNT;
 
 🔴 **QUESTION 4:**
 ```COMMAND
+C:\Users\ABHISHEK\Desktop>javac a7q4.java
 
+C:\Users\ABHISHEK\Desktop>java a7q4
+Enter the A/C number :
+1008
+Account holder's name : BOSE
+Account Balance : Rs. 20000
+
+C:\Users\ABHISHEK\Desktop>java a7q4
+Enter the A/C number :
+1005
+Not a valid information
+```
+
+🔴 **QUESTION 5:**
+```command
+C:\Users\ABHISHEK\Desktop>javac a7q1.java
+
+C:\Users\ABHISHEK\Desktop>java a7q1
+Enter the A/C number :
+1000
+Account holder's name : SAYAN
+Account Balance : Rs. 56500
+Are you wanted to terminate your account? [Y/N]
+
+Y
+Your account has been terminated.
+```
+
+*DATABASE VIEW :*
+```SQL
+SQL> SELECT * FROM ACCOUNT;
+
+     ACCNO NAME                              BALANCE
+---------- ------------------------------ ----------
+      1001 ABHISHEK                            15500
+      1003 KRISHNA                             50500
+      1008 BOSE                                20000
+      1009 SURESH                               6800
+      1010 RAKESH                               9800
 ```
