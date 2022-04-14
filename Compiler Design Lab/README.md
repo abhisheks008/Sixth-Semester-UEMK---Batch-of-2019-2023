@@ -17,3 +17,6 @@
 **Q8.** Write a LEX program which will count the number of `scanf` and `printf` statements in a C program, replace them with `readf` and `writef` statements respectively. *(Assignment 6)* </br>
 **Q9.** Write a LEX program to count the number of words. *(Assignment 6)* </br>
 **Q10.** Write a LEX program to identify the single line comment and remove it. *(Assignment 6)* </br>
+**Q11.** Write a LEX program which will count the number of tokens and also identify them. *(Assignment 7)* </br>
+**Q12.** Write a LEX program which will add line numbers to a file. (C program) *(Assignment 7)* </br>
+**Q13.** Write a LEX program which will remove multiple spaces, tabs and lines from a user given file. *(Assignment 7)* </br>
