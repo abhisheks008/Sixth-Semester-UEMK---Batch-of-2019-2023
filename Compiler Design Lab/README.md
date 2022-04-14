@@ -2,7 +2,7 @@
   <h2>Compiler Design Lab [Assignments and Solutions] 💻</h2>
 </div>
 
-🔴 **Programming Language:** C <br/>
+🔴 **Programming Language:** C, LEX <br/>
 🔴 **Semester:** Sixth <br/>
 🔴 **Department:** Computer Science and Engineering
 
