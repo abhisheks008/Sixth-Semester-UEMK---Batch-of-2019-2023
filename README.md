@@ -38,7 +38,7 @@ This repository will contain all the lab materials of the Sixth Semester of Batc
 <h2>🏫 This Repository is in association with UEM Kolkata </h2>
 <a href = "https://uem.edu.in/uem-kolkata/"><img src="https://uem.edu.in/app/themes/iem-group-wp-theme/resources/logo.png" width="200px" alt=""/> </a>
 
-**************************************************************************
+*************************************************************************
 ## abhisheks008
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>  <img alt = "C" src = "https://img.shields.io/badge/c-0000FF.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">   <img src = "https://img.shields.io/badge/StarUML-C70039.svg?&style=for-the-badge&logo=StarUML%2B%2B&ogoColor=white">   <img alt = "SQL" src = "https://img.shields.io/badge/SQL-6713d4?style=for-the-badge&logo=sql&logoColor=white">  <img alt = "JAVA" src = "https://img.shields.io/badge/JAVA-e700a5?style=for-the-badge&logo=java&logoColor=white">
 
