@@ -20,3 +20,4 @@
 **Q11.** Write a LEX program which will count the number of tokens and also identify them. *(Assignment 7)* </br>
 **Q12.** Write a LEX program which will add line numbers to a file. (C program) *(Assignment 7)* </br>
 **Q13.** Write a LEX program which will remove multiple spaces, tabs and lines from a user given file. *(Assignment 7)* </br>
+**Q14.** Write a YACC program to check the validity of an arithmetic expression that uses the operators such as +, -, * and /. *(Assignment 8)* </br>
