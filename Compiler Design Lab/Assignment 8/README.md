@@ -16,21 +16,35 @@ ubuntu-cmd:~$ vi checkValidity.y
 ubuntu-cmd:~$ lex checkValidity.l
 ubuntu-cmd:~$ yacc -d checkValidity.y
 ubuntu-cmd:~$ cc lex.yy.c y.tab.c -ly -ll
+```
+
+🔴 **Test Case 1:**
+```
 ubuntu-cmd:~$ ./a.out
 Type the expression & press enter key.
 1+5*6/7
 Valid Expression!
+```
 
+
+🔴 **Test Case 2:**
+```
 ubuntu-cmd:~$ ./a.out
 Type the expression & press enter key.
 a+b++c+d
 Invalid Expression :(
+```
 
+🔴 **Test Case 3:**
+```
 ubuntu-cmd:~$ ./a.out
 Type the expression & press enter key.
 a+b++c+d
 Invalid Expression :(
+```
 
+🔴 **Test Case 4:**
+```
 ubuntu-cmd:~$ ./a.out
 Type the expression & press enter key.
 a+b+c+d
